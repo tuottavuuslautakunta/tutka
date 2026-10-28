@@ -30,8 +30,8 @@ description: Yhteenvedot tuottavuustutkimuksista Tuottavuuslautakunnan näkökul
 {% assign kaikki = "" | split: "" %}
 {% for t in site.tutkimukset %}{% for x in t.teemat %}{% assign kaikki = kaikki | push: x %}{% endfor %}{% endfor %}
 {% assign teemat = kaikki | uniq | sort %}
-{% for teema in teemat %}
-**{{ teema }}:** {% for t in tutkimukset %}{% if t.teemat contains teema %}[{{ t.title }}]({{ t.url | relative_url }}){% unless forloop.last %} · {% endunless %}{% endif %}{% endfor %}
+{% for teema in teemat %}{% assign osumat = tutkimukset | where_exp: "t", "t.teemat contains teema" %}
+**{{ teema }}:** {% for t in osumat %}[{{ t.title }}]({{ t.url | relative_url }}){% unless forloop.last %} · {% endunless %}{% endfor %}
 {% endfor %}
 
 ## Ehdota tutkimusta
