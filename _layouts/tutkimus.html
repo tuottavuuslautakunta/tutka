@@ -6,6 +6,8 @@ layout: default
   <h1>{{ page.title }}</h1>
   {% if page.alaotsikko %}<p class="lede">{{ page.alaotsikko }}</p>{% endif %}
 
+  <p class="ai-note"><strong>Tekoälyllä tuotettu yhteenveto.</strong> Tämä analyysi on laadittu tekoälyn (Claude) avulla sivuston <a href="{{ '/menetelma/' | relative_url }}">analyysiohjeen</a> mukaisesti. Se voi sisältää virheitä tai tulkintoja, joita alkuperäisessä julkaisussa ei ole. Tarkista luvut lähteestä ennen lainaamista.</p>
+
   <dl class="meta">
     {% if page.tekijat %}<dt>Tekijät</dt><dd>{{ page.tekijat | join: ', ' }}</dd>{% endif %}
     {% if page.julkaisija %}<dt>Julkaisija</dt><dd>{{ page.julkaisija }}{% if page.sarja %}, {{ page.sarja }}{% endif %}</dd>{% endif %}
