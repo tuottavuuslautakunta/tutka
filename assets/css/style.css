@@ -1,0 +1,85 @@
+:root {
+  --bg: #fbfaf7;
+  --surface: #ffffff;
+  --text: #1d2228;
+  --muted: #5b6470;
+  --line: #e3e0d8;
+  --accent: #0f5c6e;
+  --accent-soft: #e4f0f2;
+  --warn-soft: #fbf1dc;
+  --ok-soft: #e6f2e6;
+  --measure: 46rem;
+  font-size: 17px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181c;
+    --surface: #1b2026;
+    --text: #e6e8eb;
+    --muted: #9aa3ad;
+    --line: #2c333b;
+    --accent: #6cc3d5;
+    --accent-soft: #173039;
+    --warn-soft: #3a3020;
+    --ok-soft: #1e3322;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+a { color: var(--accent); text-underline-offset: 2px; }
+.wrap { max-width: 64rem; margin: 0 auto; padding: 0 1rem; }
+
+.site-header { border-bottom: 1px solid var(--line); background: var(--surface); }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem 1.5rem; padding-top: .8rem; padding-bottom: .8rem; }
+.brand { font-weight: 700; font-size: 1.2rem; color: var(--text); text-decoration: none; letter-spacing: .02em; }
+.brand-mark { color: var(--accent); }
+nav { display: flex; flex-wrap: wrap; gap: .25rem 1.1rem; }
+nav a { color: var(--muted); text-decoration: none; font-size: .95rem; }
+nav a:hover, nav a[aria-current="page"] { color: var(--accent); }
+nav a[aria-current="page"] { font-weight: 600; }
+
+main { padding-top: 2rem; padding-bottom: 3rem; }
+main > *, .prose > * { max-width: var(--measure); }
+main > .wide, .prose > .wide, main > .cards { max-width: none; }
+h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 .6rem; }
+h2 { font-size: 1.35rem; margin: 2.2rem 0 .6rem; padding-top: .4rem; border-top: 1px solid var(--line); }
+h3 { font-size: 1.1rem; margin: 1.6rem 0 .4rem; }
+.lede { font-size: 1.15rem; color: var(--muted); margin-top: 0; }
+.crumbs { margin: 0 0 1rem; font-size: .9rem; }
+blockquote { margin: 1rem 0; padding: .5rem 1rem; border-left: 3px solid var(--accent); background: var(--accent-soft); }
+table { border-collapse: collapse; width: 100%; font-size: .93rem; margin: 1rem 0; display: block; overflow-x: auto; }
+th, td { text-align: left; padding: .45rem .6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
+code { font-size: .9em; }
+
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 1rem; padding: 0; list-style: none; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 1rem 1.1rem; }
+.card h3 { margin: 0 0 .3rem; font-size: 1.05rem; }
+.card p { margin: .3rem 0; font-size: .93rem; }
+.card .small { color: var(--muted); font-size: .85rem; }
+
+.meta { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: .9rem 1.1rem; font-size: .93rem; }
+.meta dt { color: var(--muted); }
+.meta dd { margin: 0; overflow-wrap: anywhere; }
+.tags { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+.tags li { background: var(--accent-soft); color: var(--text); border-radius: 999px; padding: .1rem .7rem; font-size: .82rem; }
+.verdict { background: var(--ok-soft); border-radius: 8px; padding: .7rem 1rem; }
+.note { background: var(--warn-soft); border-radius: 8px; padding: .7rem 1rem; font-size: .93rem; }
+
+.report { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: .2rem 1.2rem 1rem; margin: 1.2rem 0; max-width: var(--measure); }
+.report h3 { margin-top: 1rem; }
+.report .links { font-size: .9rem; }
+
+.site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .85rem; padding: 1rem 0 2rem; }
+@media (max-width: 34rem) {
+  :root { font-size: 16px; }
+  h1 { font-size: 1.6rem; }
+  .meta { grid-template-columns: 1fr; }
+  .meta dd { margin-bottom: .4rem; }
+}

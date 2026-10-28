@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="study">
+  <p class="crumbs"><a href="{{ '/tutkimukset/' | relative_url }}">← Tutkimusseuranta</a></p>
+  <h1>{{ page.title }}</h1>
+  {% if page.alaotsikko %}<p class="lede">{{ page.alaotsikko }}</p>{% endif %}
+
+  <dl class="meta">
+    {% if page.tekijat %}<dt>Tekijät</dt><dd>{{ page.tekijat | join: ', ' }}</dd>{% endif %}
+    {% if page.julkaisija %}<dt>Julkaisija</dt><dd>{{ page.julkaisija }}{% if page.sarja %}, {{ page.sarja }}{% endif %}</dd>{% endif %}
+    {% if page.julkaistu %}<dt>Julkaistu</dt><dd>{{ page.julkaistu | date: '%-d.%-m.%Y' }}</dd>{% endif %}
+    {% if page.tyyppi %}<dt>Tyyppi</dt><dd>{{ page.tyyppi }}</dd>{% endif %}
+    {% if page.maantiede %}<dt>Kattavuus</dt><dd>{{ page.maantiede }}</dd>{% endif %}
+    {% if page.suomi %}<dt>Suomi mukana</dt><dd>{{ page.suomi }}</dd>{% endif %}
+    {% if page.linkki %}<dt>Linkki</dt><dd><a href="{{ page.linkki }}">{{ page.linkki }}</a></dd>{% endif %}
+    {% if page.doi %}<dt>DOI</dt><dd><a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></dd>{% endif %}
+    {% if page.analysoitu %}<dt>Analysoitu</dt><dd>{{ page.analysoitu | date: '%-d.%-m.%Y' }}{% if page.lahdepohja %} · {{ page.lahdepohja }}{% endif %}</dd>{% endif %}
+  </dl>
+
+  {% if page.teemat %}
+  <ul class="tags">{% for t in page.teemat %}<li>{{ t }}</li>{% endfor %}</ul>
+  {% endif %}
+
+  {% if page.tlk_arvio %}
+  <p class="verdict"><strong>Suhde lautakunnan linjaan:</strong> {{ page.tlk_arvio }}</p>
+  {% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>
