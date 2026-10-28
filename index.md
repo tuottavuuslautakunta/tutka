@@ -7,10 +7,12 @@ permalink: /
 
 <p class="lede">Tuottavuustutkimuksen seuranta Tuottavuuslautakunnan näkökulmasta. Sivusto kokoaa lautakunnan raporttien keskeiset havainnot ja suositukset ja suhteuttaa niihin uusia kotimaisia ja kansainvälisiä tuottavuustutkimuksia.</p>
 
+<p class="ai-note"><strong>Huom.</strong> Sivuston yhteenvedot sekä lautakunnan raporteista että tutkimuksista on tehty tekoälyn (Claude) avulla. Ne ovat apuväline seurantaan, eivät virallisia kannanottoja – tarkista luvut aina alkuperäisestä julkaisusta.</p>
+
 <ul class="cards">
   <li class="card">
     <h3><a href="{{ '/raportit/' | relative_url }}">Lautakunnan raportit 2019–2026</a></h3>
-    <p>Kuuden vuosiraportin ja vuoden 2026 suositusten tiivistelmät linkkeineen sekä raporteissa toistuvat linjaukset teemoittain.</p>
+    <p>Seitsemän vuosiraportin ja vuoden 2026 suositusten tiivistelmät linkkeineen sekä raporteissa toistuvat linjaukset teemoittain.</p>
   </li>
   <li class="card">
     <h3><a href="{{ '/tutkimukset/' | relative_url }}">Tutkimusseuranta</a></h3>

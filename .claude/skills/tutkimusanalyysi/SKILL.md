@@ -61,10 +61,13 @@ aineisto ja ajanjakso, menetelmä yhdellä rivillä. Mainitse, jos kyse on luonn
 
 ### `## 2. Yhteenveto tutkimuksesta`
 - Aloita 2–3 virkkeen **ydinviestillä** (mitä tutkimus väittää ja miksi sillä on merkitystä).
-- Sitten **keskeiset tulokset** 3–7 luettelokohtana, luvut mukaan sellaisina kuin lähteessä.
+- Sitten **keskeinen sisältö** luettelona: tutkimuksen rakenne ja tärkeimmät tulokset 5–10 kohtana, luvut, maat
+  ja vuodet mukaan sellaisina kuin lähteessä. Kuvaa myös mahdolliset maa- tai tapausesimerkit omina alakohtinaan.
+- **Tutkimuksen omat johtopäätökset tai suositukset** numeroituna listana.
 - **Menetelmä ja aineisto** lyhyesti; arvioi identifikaation uskottavuus (kausaalinen vai kuvaileva).
 - **Rajoitukset**: mitä tutkimus ei kerro.
-Pituus noin 250–450 sanaa.
+Yhteenvedon on oltava kattava: lukijan pitää saada siitä tutkimuksen sisältö ilman alkuperäistä. Pituus
+tyypillisesti 500–900 sanaa, lyhyelle policy briefille vähemmän.
 
 ### `## 3. Suomi tutkimuksessa`
 - Jos tutkimus on Suomi-spesifi: kirjoita "Tutkimus koskee Suomea" ja siirry kohtaan 4 (voit tiivistää).
@@ -92,6 +95,12 @@ Päätä yhdellä virkkeellä: sovellettavuus *hyvä / kohtalainen / rajallinen*
 - Tiivistä lopuksi front matterin `tlk_arvio`-kenttään yhteen virkkeeseen.
 
 Lopuksi valinnainen `## Lisälukemista` -osio (enintään 5 linkkiä, vain varmistettuja).
+
+## Tekoälymaininta
+
+Sivustolla kerrotaan, että yhteenvedot on tehty tekoälyllä. `tutkimus`-asettelu lisää maininnan jokaiselle
+tutkimussivulle automaattisesti, eikä sitä tarvitse kirjoittaa tiedostoon. Älä poista mainintaa asettelusta tai
+alatunnisteesta. Erota tekstissä tutkimuksen omat väitteet ja omat arviosi (kohdat 4 ja 5 ovat aina arvioita).
 
 ## Tyyli
 
