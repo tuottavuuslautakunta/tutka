@@ -22,6 +22,8 @@ virkamiehelle lyhyesti, mitä tutkimus sanoo, koskeeko se Suomea ja miten se suh
    (tai kuukauden 1. päivä, jos vain kuukausi tiedossa) ja tunniste on 2–5 sanaa pienillä kirjaimilla ja viivoilla.
 4. **Tarkista** (ks. tarkistuslista lopussa), aja `jekyll build` jos saatavilla, ja kerro käyttäjälle tiivis
    yhteenveto sekä mahdolliset epävarmuudet.
+5. **Julkaise**: commitoi ja pushaa suoraan `main`-haaraan (hae ensin `origin/main` ja varmista fast-forward).
+   Pull requestia ei tehdä, ellei käyttäjä erikseen pyydä.
 
 ## Front matter
 
