@@ -1,0 +1,34 @@
+title: Tutka
+description: Tuottavuustutkimuksen seuranta Tuottavuuslautakunnan näkökulmasta
+lang: fi
+url: "https://tuottavuuslautakunta.github.io"
+baseurl: "/tutka"
+
+collections:
+  tutkimukset:
+    output: true
+    permalink: /tutkimukset/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: tutkimukset
+    values:
+      layout: tutkimus
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 2..3
+
+exclude:
+  - README.md
+  - CLAUDE.md
+  - .claude
+  - Gemfile
+  - Gemfile.lock
+  - vendor
