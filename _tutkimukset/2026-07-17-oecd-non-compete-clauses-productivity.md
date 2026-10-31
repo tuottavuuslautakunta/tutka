@@ -144,10 +144,13 @@ Paperi myös **täydentää** lautakunnan linjaa kahdella tavalla:
 1. **Pelotevaikutus.** Lautakunta suosittaa rajoituksia. Paperin mukaan pelkkä muodollinen sääntely ei riitä, vaan tarvitaan myös läpinäkyvyyttä, viestintää ja seuraamuksia pätemättömistä ehdoista. Tämä on suositukseen luonteva lisäys, kun kilpailukieltojen rajoituksia valmistellaan.
 2. **Salassapitosopimukset vaihtoehtona.** Paperin tulos, että salassapitosopimukset ovat paljon vähemmän haitallisia, tukee lautakunnan perustelua, jonka mukaan kilpailukiellot ovat ongelmallisimpia silloin, kun liikesalaisuuksien suojaamisen tarve on rajallinen.
 
-**Aukot.**
+**Aukot.** Lautakunta ei ole arvioinut kilpailukieltojen yleisyyttä Suomessa eikä vuoden 2022 korvausvelvollisuuden vaikutuksia.
 
-- Lautakunta ei ole arvioinut kilpailukieltojen yleisyyttä Suomessa eikä vuoden 2022 korvausvelvollisuuden vaikutuksia. Paperin perusteella tämä olisi luonteva aihe lautakunnan tulevalle työlle tai taustaselvitykselle.
-- Suomen mukaan saaminen OECD:n seuraavaan kyselykierrokseen parantaisi vertailtavuutta.
+## 6. Jatkotutkimuskysymykset
+
+- **Kuinka yleisiä kilpailukiellot ovat Suomessa** ja millä aloilla ja tehtävissä? Suomi kannattaisi saada mukaan OECD:n seuraavaan kyselykierrokseen.
+- **Mitä vuoden 2022 korvausvelvollisuus muutti?** Vähenikö kilpailukieltojen käyttö, ja lisääntyivätkö työpaikan vaihdot ja yritysten perustaminen? Lakimuutosta voi käyttää luonnollisena koeasetelmana rekisteriaineistossa.
+- **Onko pelotevaikutus Suomessa todellinen?** Noudattavatko työntekijät pätemättömiä kieltoja?
 
 ## Lisälukemista
 

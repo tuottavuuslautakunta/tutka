@@ -156,10 +156,11 @@ Paperin ja lautakunnan painotukset eroavat kolmessa kohdassa:
 2. **Mittaamisesta toimiin.** OECD:n paperi päättyy mittaamiseen. Lautakunta vie päättelyn pidemmälle: kannusteet, vertailuasetelmat hyvinvointialueiden ja kuntien välillä, satunnaistetut kokeet, vaikutusarviointi säädösvaiheessa ja tulosperusteiset hankinnat. Tältä osin lautakunnan suositukset **täydentävät** OECD:tä.
 3. **Panokset.** OECD korostaa myös panosten mittaamista. Lautakunnan vuoden 2026 suosituksissa tätä ei korosteta, vaikka henkilöstön eläköityminen ja digitalisaatio tekevät asiasta Suomelle tärkeän.
 
-**Aukot ja jatko.**
+## 6. Jatkotutkimuskysymykset
 
-- **Koulutuksen laatukorjaus.** Ranskan esimerkki osoittaa, että laatukorjaus voi myös heikentää kuvaa koulutuksen tuottavuudesta, jos oppimistulokset laskevat. Lautakunnan ehdottama oppimistulosten valtakunnallinen mittaaminen loisi Suomeen edellytykset vastaavalle laskelmalle.
-- **Jakaumanäkökulma.** Paperin jakaumatilinpito, eli keitä julkiset palvelut tavoittavat, puuttuu lautakunnan raporteista kokonaan. Se voisi olla luonteva täydennys julkisen sektorin seurantaan.
+- **Miltä Suomen koulutuksen ja soten tuottavuus näyttäisi laatukorjattuna?** Laatukorjaus voi myös heikentää kuvaa koulutuksen tuottavuudesta, jos oppimistulokset laskevat, kuten Ranskassa. Lautakunnan ehdottama oppimistulosten valtakunnallinen mittaaminen loisi edellytykset vastaavalle laskelmalle.
+- **Voisiko Australian sairauskohtaisen laatukorjauksen toistaa** suomalaisilla laatu- ja hoitoilmoitusrekistereillä?
+- **Keitä julkiset palvelut tavoittavat?** Jakaumanäkökulma puuttuu lautakunnan raporteista ja voisi täydentää julkisen sektorin seurantaa.
 
 ## Lisälukemista
 

@@ -6,7 +6,7 @@ description: Yhteenvedot tuottavuustutkimuksista Tuottavuuslautakunnan näkökul
 
 # Tutkimusseuranta
 
-<p class="lede">Yhteenvedot tuoreista tuottavuustutkimuksista. Jokainen yhteenveto noudattaa samaa viiden kohdan rakennetta: tutkimuksen tiedot, yhteenveto, Suomi tutkimuksessa, sovellettavuus Suomeen sekä suhde Tuottavuuslautakunnan raportteihin. Ks. <a href="{{ '/menetelma/' | relative_url }}">menetelmä</a>.</p>
+<p class="lede">Yhteenvedot tuoreista tuottavuustutkimuksista. Jokainen yhteenveto noudattaa samaa kuuden kohdan rakennetta: tutkimuksen tiedot, yhteenveto, Suomi tutkimuksessa, sovellettavuus Suomeen, suhde Tuottavuuslautakunnan raportteihin sekä jatkotutkimuskysymykset. Ks. <a href="{{ '/menetelma/' | relative_url }}">menetelmä</a>.</p>
 
 {% assign tutkimukset = site.tutkimukset | sort: 'julkaistu' | reverse %}
 {% if tutkimukset.size == 0 %}

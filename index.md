@@ -16,7 +16,7 @@ permalink: /
   </li>
   <li class="card">
     <h3><a href="{{ '/tutkimukset/' | relative_url }}">Tutkimusseuranta</a></h3>
-    <p>Yhteenvedot uusista tutkimuksista viiden kohdan rakenteella: mitä tutkimus sanoo, koskeeko se Suomea ja miten se sopii lautakunnan havaintoihin.</p>
+    <p>Yhteenvedot uusista tutkimuksista kuuden kohdan rakenteella: mitä tutkimus sanoo, koskeeko se Suomea, miten se sopii lautakunnan havaintoihin ja mitä jatkokysymyksiä siitä nousee.</p>
   </li>
   <li class="card">
     <h3><a href="{{ '/menetelma/' | relative_url }}">Menetelmä</a></h3>

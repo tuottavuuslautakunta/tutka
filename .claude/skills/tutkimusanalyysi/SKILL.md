@@ -53,7 +53,7 @@ lahdepohja: "Kokoteksti"           # tai "Tiivistelmä – kokoteksti ei saatavi
 `osaaminen ja koulutus`, `työmarkkinat`, `investoinnit ja pääoma`, `kansainvälinen kauppa`,
 `vihreä siirtymä`, `yritystuet`, `sääntely`, `alueet`, `makrotalous`. Lisää uusi teema vain, jos mikään ei sovi.
 
-## Sisältö – viisi pakollista osiota
+## Sisältö – kuusi pakollista osiota
 
 Käytä täsmälleen näitä otsikoita (h2), jotta sivut ovat vertailukelpoisia.
 
@@ -63,13 +63,13 @@ aineisto ja ajanjakso, menetelmä yhdellä rivillä. Mainitse, jos kyse on luonn
 
 ### `## 2. Yhteenveto tutkimuksesta`
 - Aloita 2–3 virkkeen **ydinviestillä** (mitä tutkimus väittää ja miksi sillä on merkitystä).
-- Sitten **keskeinen sisältö** luettelona: tutkimuksen rakenne ja tärkeimmät tulokset 5–10 kohtana, luvut, maat
+- Sitten **keskeinen sisältö** luettelona: tutkimuksen rakenne ja tärkeimmät tulokset 5–8 kohtana, luvut, maat
   ja vuodet mukaan sellaisina kuin lähteessä. Kuvaa myös mahdolliset maa- tai tapausesimerkit omina alakohtinaan.
 - **Tutkimuksen omat johtopäätökset tai suositukset** numeroituna listana.
 - **Menetelmä ja aineisto** lyhyesti; arvioi identifikaation uskottavuus (kausaalinen vai kuvaileva).
 - **Rajoitukset**: mitä tutkimus ei kerro.
 Yhteenvedon on oltava kattava: lukijan pitää saada siitä tutkimuksen sisältö ilman alkuperäistä. Pituus
-tyypillisesti 500–900 sanaa, lyhyelle policy briefille vähemmän.
+tyypillisesti 450–800 sanaa, lyhyelle policy briefille vähemmän.
 
 ### `## 3. Suomi tutkimuksessa`
 - Jos tutkimus on Suomi-spesifi: kirjoita "Tutkimus koskee Suomea" ja siirry kohtaan 4 (voit tiivistää).
@@ -96,13 +96,19 @@ Päätä yhdellä virkkeellä: sovellettavuus *hyvä / kohtalainen / rajallinen*
   agendalle.
 - Tiivistä lopuksi front matterin `tlk_arvio`-kenttään yhteen virkkeeseen.
 
+### `## 6. Jatkotutkimuskysymykset`
+2–4 luettelokohtaa: mitä avoimia kysymyksiä tutkimuksesta nousee **Suomen ja TLK:n kannalta** – esim. mitä pitäisi
+selvittää suomalaisella aineistolla, mitä tutkimus jättää auki tai mihin TLK:n kannattaisi tilata selvitys. Jos
+mitään olennaista ei nouse, kirjoita yksi virke siitä. Kohta ei saa kasvattaa analyysin kokonaispituutta:
+pidä kohdat 4 ja 5 vastaavasti tiiviinä (kumpikin tyypillisesti enintään noin 300 sanaa).
+
 Lopuksi valinnainen `## Lisälukemista` -osio (enintään 5 linkkiä, vain varmistettuja).
 
 ## Tekoälymaininta
 
 Sivustolla kerrotaan, että yhteenvedot on tehty tekoälyllä. `tutkimus`-asettelu lisää maininnan jokaiselle
 tutkimussivulle automaattisesti, eikä sitä tarvitse kirjoittaa tiedostoon. Älä poista mainintaa asettelusta tai
-alatunnisteesta. Erota tekstissä tutkimuksen omat väitteet ja omat arviosi (kohdat 4 ja 5 ovat aina arvioita).
+alatunnisteesta. Erota tekstissä tutkimuksen omat väitteet ja omat arviosi (kohdat 4–6 ovat aina arvioita).
 
 ## Tyyli
 
@@ -116,7 +122,7 @@ alatunnisteesta. Erota tekstissä tutkimuksen omat väitteet ja omat arviosi (ko
 ## Tarkistuslista ennen tallennusta
 
 - [ ] Front matter täydellinen, `julkaistu` ja `analysoitu` muodossa VVVV-KK-PP.
-- [ ] Viisi osiota oikeilla otsikoilla ja oikeassa järjestyksessä.
+- [ ] Kuusi osiota oikeilla otsikoilla ja oikeassa järjestyksessä.
 - [ ] Jokainen luku ja maavertailu löytyy lähteestä; muuten poistettu tai merkitty "ei varmistettu".
 - [ ] Kohdassa 5 viitatut TLK-raportit ovat olemassa `raportit.md`:ssä ja linkit toimivat.
 - [ ] `lahdepohja` kertoo rehellisesti, perustuuko analyysi kokotekstiin.

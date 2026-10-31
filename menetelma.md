@@ -14,6 +14,7 @@ Jokainen tutkimusyhteenveto tehdään samalla rakenteella, jotta ne ovat kesken�
 | 3 | Suomi tutkimuksessa | Jos tutkimus ei ole Suomi-spesifi: onko Suomi mukana ja millaisin tuloksin. |
 | 4 | Sovellettavuus Suomeen | Rakenteelliset erot, toistettavuus suomalaisella datalla, politiikkajohtopäätökset. |
 | 5 | Suhde TLK:n raportteihin | Onko aihetta käsitelty lautakunnan raporteissa; tukeeko, täydentääkö vai haastaako tutkimus lautakunnan havaintoja ja suosituksia. |
+| 6 | Jatkotutkimuskysymykset | Mitä avoimia kysymyksiä tutkimuksesta nousee Suomen ja lautakunnan kannalta. |
 
 ## Tekoälyn käyttö
 
@@ -21,7 +22,7 @@ Kaikki sivuston yhteenvedot – sekä [Tuottavuuslautakunnan raporttien tiiviste
 
 - Raporttien tiivistelmät on laadittu raporttien PDF-versioista ja niistä aiemmin tehdystä raporttikatsauksesta.
 - Tutkimusyhteenvedot laaditaan skillillä `tutkimusanalyysi`, joka määrittää analyysin rakenteen, lähteiden käytön ja tarkistuslistan. Jokaisen yhteenvedon metatiedoissa kerrotaan, perustuuko analyysi kokotekstiin vai pelkkään tiivistelmään.
-- Kohdan 4 (sovellettavuus Suomeen) ja kohdan 5 (suhde lautakunnan raportteihin) arviot ovat tekoälyn tulkintoja, eivät Tuottavuuslautakunnan kannanottoja.
+- Kohtien 4 (sovellettavuus Suomeen), 5 (suhde lautakunnan raportteihin) ja 6 (jatkotutkimuskysymykset) arviot ovat tekoälyn tulkintoja, eivät Tuottavuuslautakunnan kannanottoja.
 
 Tekoälyn tuottama teksti voi sisältää virheitä, puutteita tai painotuksia, joita alkuperäisissä julkaisuissa ei ole. Yhteenvedot on tarkoitettu seurannan apuvälineeksi.
 

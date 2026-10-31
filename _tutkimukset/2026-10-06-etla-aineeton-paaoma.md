@@ -186,9 +186,13 @@ Kansantalouden tilinpidon laajentaminen esimerkiksi organisaatiopääomaan on ku
 
   Arviomme mukaan rajanveto kannattaa tehdä niin, että tuki kohdistuu todennettuihin markkinapuutteisiin, kuten rahoitusrajoitteisiin ja tiedon ulkoisvaikutuksiin. Tukea ei kannata kohdistaa aineettomiin investointeihin sinänsä.
 
-**Aukot.**
+**Aukot.** Lautakunta ei ole käsitellyt aineettomien investointien rahoitusesteitä eikä aineettoman pääoman tilastoinnin kehittämistä omana suosituksenaan.
 
-- Lautakunta ei ole käsitellyt aineettomien investointien rahoitusesteitä eikä aineettoman pääoman tilastoinnin kehittämistä omana suosituksenaan.
+## 6. Jatkotutkimuskysymykset
+
+- **Mitkä aineettomien investointien markkinapuutteet ovat Suomessa todennettavia?** Esimerkiksi rahoitusrajoitteet ja tiedon ulkoisvaikutukset. Vastaus ratkaisee, voidaanko tukea laajentaa lautakunnan markkinapuutelinjan mukaisesti.
+- **Miksi aineettoman työn osuus jäi Suomessa jälkeen** Tanskasta ja Norjasta finanssikriisin jälkeen, ja miksi organisaatiopääoma väheni?
+- **Selittääkö mittaamaton aineeton pääoma** osan palvelualojen heikosta tuottavuudesta?
 - IntanPol-hankkeen myöhemmät työpaketit, joissa tehdään Suomea koskevaa empiriaa, ovat luonteva seurantakohde Tutkassa.
 
 ## Lisälukemista
