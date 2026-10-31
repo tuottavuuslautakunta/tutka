@@ -80,7 +80,7 @@ Katsauksessa on oma osio Suomea koskevista mikrotutkimuksista, jotka kaikki kosk
 - **Hyytinen ja Toivanen (2005):** tuet lievittävät pk-yritysten rahoitusrajoitteita ja lisäävät T&K-menoja ja myynnin kasvua.
 - **Einiö (2009, 2014):** EU:n väestötiheyssääntöön perustuva asetelma; suorat tuet lisäävät T&K-menoja, työllisyyttä ja myyntiä, tuottavuutta vasta pitkällä aikavälillä.
 - **Takalo, Tanayama ja Toivanen (2013):** yritykset sisäistävät noin 60 % tukien tuotoista, joten läikkymisvaikutukset ovat merkittävät; kokonaistuotto ylittää kustannukset hieman.
-- **Karhunen ja Huovari (2015):** ei tuottavuusvaikutusta viiden vuoden aikana; työllisyys ja eloonjääminen kasvavat. (Toinen kirjoittaja on lautakunnan nykyinen puheenjohtaja.)
+- **Karhunen ja Huovari (2015):** ei tuottavuusvaikutusta viiden vuoden aikana; työllisyys ja eloonjääminen kasvavat.
 - **Koski ja Pajarinen (2015):** yritystuilla (myös T&K) ei tuottavuusvaikutusta; heikosti tuottavien yritysten poistuminen hidastuu.
 - **Fornaro ym. (2020):** Tekes-tuet lisäävät pysyvästi T&K-menoja ja -henkilöstöä, mutta eivät työn tuottavuutta; läikkymisvaikutuksia ei löydy; heikosti tuottavien yritysten eloonjääminen kasvaa.
 - **Takalo, Toivanen ja Wahlberg (2026, tulossa RAND Journal of Economics):** suorat tuet heikentävät hyvinvointia noin 0,7 % hakukustannusten vuoksi, kun taas verokannustin parantaa sitä noin 0,6 %, vaikka se on julkiselle taloudelle selvästi kalliimpi.
