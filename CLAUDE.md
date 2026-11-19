@@ -7,3 +7,4 @@ Jekyll-sivusto (GitHub Pages), joka seuraa tuottavuustutkimusta Tuottavuuslautak
 - Älä keksi lukuja tai linkkejä; merkitse varmistamaton tieto.
 - Tarkista käännös: `jekyll build` (tai `bundle exec jekyll build`).
 - Julkaisu: uudet tutkimusyhteenvedot ja muut sisältömuutokset commitoidaan ja pushataan suoraan `main`-haaraan (ei pull requestia), ellei käyttäjä toisin pyydä. Varmista ennen pushia, että työ on `origin/main`-haaran päällä (fast-forward).
+- Viikoittainen tutkimusseuranta (perjantaisin): skill `.claude/skills/tutkimusseuranta/SKILL.md`; työtiedostot `seuranta/` (ei näy sivustolla).
