@@ -118,6 +118,8 @@ alatunnisteesta. Erota tekstissä tutkimuksen omat väitteet ja omat arviosi (ko
 - Erota selvästi, mikä on **tutkimuksen** väite ja mikä on **tämän analyysin** arvio (esim. "Arviomme mukaan …").
 - Ei liioittelua; epävarmuus ääneen. Lainaukset lyhyitä ja lähteeseen sidottuja.
 - Linkit aina täydellisinä URL-osoitteina; älä keksi linkkejä.
+- Älä mainitse Tuottavuuslautakunnan jäseniä tai puheenjohtajaa nimeltä tai roolin kautta (esim. että tutkimuksen
+  tekijä on lautakunnan jäsen tai on kommentoinut julkaisua). Tutkimusten tekijät mainitaan vain tavanomaisena viitetietona.
 
 ## Tarkistuslista ennen tallennusta
 
