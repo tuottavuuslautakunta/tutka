@@ -69,4 +69,3 @@ Tunnisteet viittaavat alkuperäisiin ehdotuslistoihin.
 ## Viikkohaku 20.11.2026
 - 1 Ali-Yrkkö & Pajarinen: Aineettomat investoinnit kasvavat, ETLA WP 155 (16.11.2026) – https://www.etla.fi/julkaisut/working-papers/aineettomat-investoinnit-kasvavat-miten-ne-nakyvat-yritystasolla-ja-tuottavuudessa/
 - 2 Koski & Markkanen: Yritysrahoituksen kohdentuminen ja toteutunut käyttö, Eduskunnan tarkastusvaliokunta 2/2026 (13.11.2026) – https://www.etla.fi/julkaisut/muut-julkaisut/yritysrahoituksen-kohdentuminen-ja-toteutunut-kaytto/
-- 3 Koutsogeorgopoulou & Yu: Workforce ageing and productivity, OECD ECO WP 1879 (2026) – https://ideas.repec.org/p/oec/ecoaaa/1879-en.html
